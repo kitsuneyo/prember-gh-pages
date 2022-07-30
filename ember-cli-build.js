@@ -9,7 +9,7 @@ module.exports = function (defaults) {
       importBootstrapCSS: false,
     },
     prember: {
-      urls: ['/', '/index', '/another-page'],
+      urls: ['/', '/another-page'],
     },
   });
 
