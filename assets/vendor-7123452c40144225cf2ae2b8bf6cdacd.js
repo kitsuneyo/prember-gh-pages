@@ -5138,7 +5138,7 @@ Object.defineProperty(e,"__esModule",{value:!0}),e.default=function(e){return nu
 function t(e){return i.packages[e]}function r(){return i.global}Object.defineProperty(e,"__esModule",{value:!0}),e.config=t,e.each=function(e){if(!Array.isArray(e))throw new Error("the argument to the each() macro must be an array")
 return e},e.getGlobalConfig=r,e.isTesting=function(){let e=i.global,t=e&&e["@embroider/macros"]
 return Boolean(t&&t.isTesting)},e.macroCondition=function(e){return e}
-const i={packages:{"/Users/neil/dev/prember-gh-pages/node_modules/ember-bootstrap":{isBS4:!1,isBS5:!0,isNotBS5:!1,version:"5.1.1"}},global:{"@embroider/macros":{isTesting:!1}}}
+const i={packages:{"/Users/neil/dev/prember-ghpages-example/node_modules/ember-bootstrap":{isBS4:!1,isBS5:!0,isNotBS5:!1,version:"5.1.1"}},global:{"@embroider/macros":{isTesting:!1}}}
 let n="undefined"!=typeof window?window._embroider_macros_runtime_config:void 0
 if(n){let e={config:t,getGlobalConfig:r,setConfig(e,t){i.packages[e]=t},setGlobalConfig(e,t){i.global[e]=t}}
 for(let t of n)t(e)}})),define("@embroider/util/ember-private-api",["exports","@embroider/macros/es-compat"],(function(e,t){"use strict"
