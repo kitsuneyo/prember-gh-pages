@@ -44,7 +44,7 @@ module.exports = function (environment) {
 
   if (environment === 'production') {
     // ENV.rootURL = '/prember-gh-pages';
-    ENV.locationType = 'hash';
+    // ENV.locationType = 'hash';
   }
 
   return ENV;
