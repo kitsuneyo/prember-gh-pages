@@ -1,5 +1,5 @@
 import { module, test } from 'qunit';
-import { setupTest } from 'prember-gh-pages/tests/helpers';
+import { setupTest } from 'prember-ghpages-example/tests/helpers';
 
 module('Unit | Route | index', function (hooks) {
   setupTest(hooks);

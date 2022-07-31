@@ -1,4 +1,4 @@
-# prember-gh-pages
+# prember-ghpages-example
 
 This Ember.js app is pre-rendered with Fastboot and prember and deployed to GitHub Pages
 

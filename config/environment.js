@@ -2,7 +2,7 @@
 
 module.exports = function (environment) {
   let ENV = {
-    modulePrefix: 'prember-gh-pages',
+    modulePrefix: 'prember-ghpages-example',
     environment,
     rootURL: '/',
     locationType: 'history',
@@ -43,7 +43,7 @@ module.exports = function (environment) {
   }
 
   if (environment === 'production') {
-    // ENV.rootURL = '/prember-gh-pages';
+    // ENV.rootURL = '/prember-ghpages-example';
     // ENV.locationType = 'hash';
   }
 

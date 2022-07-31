@@ -1,9 +1,9 @@
 {
-  "name": "prember-gh-pages",
+  "name": "prember-ghpages-example",
   "version": "0.0.1",
   "private": false,
   "description": "Test deployment to GHPages of an Ember app with Fastboot & Prember",
-  "repository": "https://github.com/kitsuneyo/prember-gh-pages",
+  "repository": "https://github.com/kitsuneyo/prember-ghpages-example",
   "license": "MIT",
   "author": "",
   "directories": {

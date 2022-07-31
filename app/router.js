@@ -1,5 +1,5 @@
 import EmberRouter from '@ember/routing/router';
-import config from 'prember-gh-pages/config/environment';
+import config from 'prember-ghpages-example/config/environment';
 
 export default class Router extends EmberRouter {
   location = config.locationType;
